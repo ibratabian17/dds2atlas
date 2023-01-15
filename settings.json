@@ -1,0 +1,8 @@
+{
+    "default": {
+      "inputDir": "./input",
+      "outputDir": "./output",
+      "Win32ImageMagickPath": "\"C:/Program Files/ImageMagick-7.1.0-Q16-HDRI/magick\"",
+      "jsonp": true
+    }
+  }
